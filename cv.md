@@ -14,6 +14,8 @@ I like to learn new things, systematize knowledge and apply it in practice.
 - Python
 - HTML
 - CSS
+- BEM-naming
+- JS (for beginners)
 - VS Code
 - Figma
 - PyCharm
